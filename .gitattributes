@@ -1,0 +1,5 @@
+*.js filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+*.cache filter=lfs diff=lfs merge=lfs -text
+*.js,*.html filter=lfs diff=lfs merge=lfs -text
+*.js,*.html,*.pack filter=lfs diff=lfs merge=lfs -text
